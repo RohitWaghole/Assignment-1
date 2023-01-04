@@ -37,5 +37,5 @@ while 1:
     if repeat=='yes':
         pass
     else:
-        print("\n\n Thank you!")
+        print(f"\n\n Thank you for playing {name}!")
         break
