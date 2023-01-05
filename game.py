@@ -26,6 +26,14 @@ while 1:
         flag = True
         if choice == num:
             print("Hurray! You've won the Game")
+		print('''
+		________________________________________________
+		|								|
+		|	You							|
+		|	  Won							|
+		|	   The						|
+		|	    Game						|				
+		|_______________________________________________|
             flag = False
             break
         print("Wrong Choice, choose again!")
