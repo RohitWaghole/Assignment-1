@@ -30,3 +30,4 @@ git stash apply
 git stash apply stash@{number}
 git stash drop stash@{number}
 git stash clear
+git stash branch "branch_name" stash@{number}
