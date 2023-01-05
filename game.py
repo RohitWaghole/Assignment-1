@@ -25,7 +25,7 @@ while 1:
         choice = int(input("\n Enter your choice -> "))
         flag = True
         if choice == num:
-            print("Hurray! You've won the Game")
+            print("Hurray! You've won the Game, You are free now.")
 		print('''
 		________________________________________________
 		|								|
