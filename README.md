@@ -12,7 +12,7 @@ touch file_name
 
 git rm --cached file_name
 
-git config --global user.name 
+git config --global user.name
 git config --global user.email 
 
 git fetch   
