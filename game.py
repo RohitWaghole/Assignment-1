@@ -25,15 +25,16 @@ while 1:
         choice = int(input("\n Enter your choice -> "))
         flag = True
         if choice == num:
-            print("Hurray! You've won the Game, You are free now.")
-		print('''
-		________________________________________________
-		|								|
-		|	You							|
-		|	  Won							|
-		|	   The						|
-		|	    Game						|				
-		|_______________________________________________|
+            print("Hurray! You've won the Game, Let's party Now.")
+            print('''
+            ________________________________________________
+            |								|
+            |	You							|
+            |	  Won							|
+            |	   The						|
+            |	    Game						|				
+            |_______________________________________________|
+            ''')
             flag = False
             break
         print("Wrong Choice, choose again!")
