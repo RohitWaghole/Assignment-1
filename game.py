@@ -13,7 +13,7 @@ _________________________________________________________________
 ''')
 
 name = input("Enter Your Name -> ")
-limit = int(input("Enter your range -> "))
+limit = int(input("Enter your range to select -> "))
 
 print(f'\n\nWelcome {name} to the Number Guessing Game!')
 
