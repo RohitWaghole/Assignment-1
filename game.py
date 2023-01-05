@@ -12,8 +12,8 @@ _________________________________________________________________
 |_______________________________________________________________|
 ''')
 
-name = input("Enter Your Name -> ")
-limit = int(input("Enter your range of choice -> "))
+name = input("Enter Your Full Name -> ")
+limit = int(input("Enter your range of choice for Guessing -> "))
 
 print(f'\n\nWelcome {name} to the Number Guessing Game!')
 
