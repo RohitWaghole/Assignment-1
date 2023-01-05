@@ -1,12 +1,12 @@
 # Assignment-1
 Learning about Git
 
-git clone url_link
-cd folder_name
-git status
-git add "file_name"
-git commit -m "message"
-git push
+git clone url_link,
+cd folder_name,
+git status,
+git add "file_name",
+git commit -m "message",
+git push,
 
 touch file_name
 
