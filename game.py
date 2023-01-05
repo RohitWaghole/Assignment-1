@@ -28,11 +28,11 @@ while 1:
             print("Hurray! You've won the Game, Let's party Now.")
             print('''
             ________________________________________________
-            |								|
-            |	You							|
-            |	  Won							|
-            |	   The						|
-            |	    Game						|				
+            |								                |
+            |	    You							            |
+            |	     Won							        |
+            |	      The						            |
+            |	       Game						            |				
             |_______________________________________________|
             ''')
             flag = False
