@@ -7,13 +7,13 @@ _________________________________________________________________
 |    Instructions:                                              |
 |        1. Total 3 lifes given                                 |
 |        2. Select the number range form 0                      |
-|        3. guess the number                                    |
+|        3. guess the number                                   |
 |        4. if correct ? Hurray, You've won! else You lose!     |
 |_______________________________________________________________|
 ''')
 
 name = input("Enter Your Name -> ")
-limit = int(input("Enter your range to select -> "))
+limit = int(input("Enter your range of choice -> "))
 
 print(f'\n\nWelcome {name} to the Number Guessing Game!')
 
