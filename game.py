@@ -12,8 +12,8 @@ _________________________________________________________________
 |_______________________________________________________________|
 ''')
 
-name = input("Enter Your Name -> ")
-limit = int(input("Enter your range -> "))
+name = input("Enter Your Full Name -> ")
+limit = int(input("Enter your range of choice for Guessing the number -> "))
 
 print(f'\n\nWelcome {name} to the Number Guessing Game!')
 
@@ -25,7 +25,7 @@ while 1:
         choice = int(input("\n Enter your choice -> "))
         flag = True
         if choice == num:
-            print("Hurray! You've won the Game, Let's party Now.")
+            print("Hurray! You've won the Game, Let's party.")
             print('''
             ________________________________________________
             |								                |
